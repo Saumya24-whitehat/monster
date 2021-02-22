@@ -82,7 +82,7 @@ function draw(){
     stroke("black")
     strokeWeight(2);
     textSize(50)
-    text("KILL THE MONSTER", 500, 700)
+    text("KILL THE MONSTER", 130, 100)
 }
 
 function mouseDragged(){
